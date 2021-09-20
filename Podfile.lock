@@ -20,7 +20,7 @@ DEPENDENCIES:
   - ZIPFoundation
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs:
+  https://github.com/CocoaPods/Specs.git:
     - SwiftyTesseract
     - ZIPFoundation
   https://github.com/Fourthline-com/FourthlineSDK-iOS-Specs.git:
@@ -31,6 +31,6 @@ SPEC CHECKSUMS:
   SwiftyTesseract: d92b644e0e12d143bc272bfe1edb73ae07f2b2e8
   ZIPFoundation: e27423c004a5a1410c15933407747374e7c6cb6e
 
-PODFILE CHECKSUM: f413ba6ed2717c5f329873bf6980cf945c90289e
+PODFILE CHECKSUM: 4f1f041af0e0363448a486776a85e0b76e7917eb
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.10.2
