@@ -5,6 +5,9 @@
       location = "group:IdentHubSDK.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:Cartfile">
+   </FileRef>
+   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
