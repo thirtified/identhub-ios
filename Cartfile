@@ -2,6 +2,6 @@
 # Pulling the Fourthline dependencies requires access to the private Fourthline repositories.
 # See the project's README file how to enable access.
 
-github "Fourthline-com/FourthlineSDK-iOS" ~> 2.3.1
-github "SwiftyTesseract/SwiftyTesseract" ~> 2.2.3
-github "weichsel/ZIPFoundation" ~> 0.9.11
+github "Fourthline-com/FourthlineSDK-iOS" == 2.3.1
+github "SwiftyTesseract/SwiftyTesseract" == 2.2.3
+github "weichsel/ZIPFoundation" == 0.9.11
